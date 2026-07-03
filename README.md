@@ -14,5 +14,5 @@
 2. Перейдите в папку. Далее вы можете вводить команды, например:
 python tasks.py add 'Купит хлеб'
 
-## URL Проекта 
-https://github.com/Grigary01/Tasks.git
+
+**URL проекта:** https://github.com/Grigary01/Tasks
