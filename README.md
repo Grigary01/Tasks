@@ -1,1 +1,1 @@
-https://github.com/Grigary01/Tasks
+https://github.com/Grigary01/Tasks.git
