@@ -1,6 +1,6 @@
 # Tasks
 
-**URL проекта:** https://github.com/Grigary01/Tasks
+https://github.com/Grigary01/Tasks
 
 ## О проекте
 Этот проект создан для запоминания задач, которые ты хочешь сделать.
