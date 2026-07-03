@@ -15,4 +15,4 @@
 python tasks.py add 'Купит хлеб'
 
 
-**URL проекта:** https://github.com/Grigary01/Tasks
+**URL проекта:** https://github.com/Grigary01/Tasks.git
