@@ -11,7 +11,7 @@ https://github.com/Grigary01/Tasks
 ### Установка
 
 1. Клонируете репозиторий:
- git clone https://github.com/Grigary01/Tasks
+git clone https://github.com/Grigary01/Tasks
 
 2. Перейдите в папку. Далее вы можете вводить команды, например:
 python tasks.py add 'Купит хлеб'
